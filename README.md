@@ -42,5 +42,5 @@ The purpose of this project is to create a website for people to test their Isla
 
 ## Feedback
 
-If you have any feedback, please reach out to us at alamfariha560@gmail.com
+If you have any feedback, please reach out to alamfariha560@gmail.com
 
