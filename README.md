@@ -8,8 +8,8 @@ The purpose of this project is to create a website for people to test their Isla
 
 - Quizzes that contain 15 questions each
 - Buttons for redirection
-- Menu
-
+- Menu for navigation
+- Homescreen
 
 ## Lessons Learned
 
@@ -32,15 +32,15 @@ The purpose of this project is to create a website for people to test their Isla
 
 
 ## Acknowledgements
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
-- [Coolors](https://coolors.co/)
-
-## Author
-
-- [@deffonotfari](https://github.com/deffonotfari)
+ - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project): Generates a ReadMe.md
+- [Coolors](https://coolors.co/): Generates a colour palette for web application
 
 
 ## Feedback
 
 If you have any feedback, please reach out to alamfariha560@gmail.com
+
+## Author
+
+- [@deffonotfari](https://github.com/deffonotfari)
 
